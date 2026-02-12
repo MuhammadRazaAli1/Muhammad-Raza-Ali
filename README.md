@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Muhammad Raza Ali  
-🎓 BS Computer Science Student (7th Semester) at Government College University, Faisalabad  
+🎓 BS Computer Science Student (8th Semester) at Government College University, Faisalabad  
 📊 Aspiring Data Scientist | Passionate about Machine Learning & AI  
 📚 Coursera Certified – IBM Data Science Professional Certificate  
 
