@@ -27,15 +27,6 @@ I'm a passionate Computer Science student with a strong inclination towards **Da
 I believe that **data is the new currency** of the digital world. With strong programming fundamentals and a deep understanding of data science, I aim to solve real-world problems using machine learning and AI. My projects reflect this commitment—each one designed to build skills systematically while maintaining code quality and documentation standards.
 
 
-## 🔹 Connect With Me  
-
-I'm always open to collaboration, feedback, and discussion about Python, Data Science, and Machine Learning!
-
-- [LinkedIn](https://www.linkedin.com/in/muhammad-raza-ali-a8a70b385/)  
-- [Kaggle](https://www.kaggle.com/muhammadrazaali1)  
-- [Email](mailto:mraza0344567@gmail.com)  
-
-
 ## 🔹 Fun Facts
 -  Problem-solving through games and challenges
 -  Passionate about documentation and knowledge sharing
