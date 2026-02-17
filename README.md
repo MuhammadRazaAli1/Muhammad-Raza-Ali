@@ -44,3 +44,12 @@ I'm always open to collaboration, feedback, and discussion about Python, Data Sc
 
 
 **"Code today, Expert tomorrow. Every project is a step towards mastery."**
+
+
+## 🔹 Connect With Me  
+
+I'm always open to collaboration, feedback, and discussion about Python, Data Science, and Machine Learning!
+
+- [LinkedIn](https://www.linkedin.com/in/muhammad-raza-ali-a8a70b385/)  
+- [Kaggle](https://www.kaggle.com/muhammadrazaali1)  
+- [Email](mailto:mraza0344567@gmail.com)  
