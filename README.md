@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Muhammad Raza Ali  
-🎓 BS Computer Science Student (8th Semester) at Government College University, Faisalabad  
-📊 Aspiring Data Scientist | Passionate about Machine Learning & AI  
-📚 Coursera Certified – IBM Data Science Professional Certificate  
+# Hi, I'm Muhammad Raza Ali  
+- BS Computer Science Student (8th Semester) at Government College University, Faisalabad  
+- Aspiring Data Scientist | Passionate about Machine Learning & AI  
+- Coursera Certified – IBM Data Science Professional Certificate  
 
 
 ## 🔹 About Me
@@ -37,10 +37,10 @@ I'm always open to collaboration, feedback, and discussion about Python, Data Sc
 
 
 ## 🔹 Fun Facts
-- 🎮 Problem-solving through games and challenges
-- 📚 Passionate about documentation and knowledge sharing
-- 🌍 Aspiring to contribute to open-source ML, DS and Python projects
-- 💪 Believer in continuous learning and improvement
+-  Problem-solving through games and challenges
+-  Passionate about documentation and knowledge sharing
+-  Aspiring to contribute to open-source ML, DS and Python projects
+-  Believer in continuous learning and improvement
 
 
-**"Code today, Expert tomorrow. Every project is a step towards mastery."** 🚀
+**"Code today, Expert tomorrow. Every project is a step towards mastery."**
