@@ -17,9 +17,9 @@ I'm a passionate Computer Science student with a strong inclination towards **Da
 
 
 ## 🔹 Current Focus  
-🌱 Building my Data Science portfolio through Kaggle (Notebooks, Datasets & Competitions)  
-💡 Exploring Machine Learning and real-world AI applications  
-🚀 Preparing for international opportunities in Data Science   
+- Building my Data Science portfolio through Kaggle (Notebooks, Datasets & Competitions)  
+- Exploring Machine Learning and real-world AI applications  
+- Preparing for international opportunities in Data Science   
 
 
 ## 🔹 Why This Journey?
