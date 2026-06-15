@@ -5,7 +5,7 @@
 
 
 ## 🔹 About Me
-I'm a passionate Computer Science student with a strong inclination towards **Data Science** and **Machine Learning**. Currently, I'm actively building practical **Python projects** to strengthen my programming fundamentals while simultaneously pursuing my Data Science journey through specialized coursework. My goal is to bridge the gap between theoretical knowledge and real-world applications by developing impactful data-driven solutions.
+I am a Computer Science Graduate and Data Scientist dedicated to architecting production-ready Machine Learning pipelines. My approach goes beyond training models; I focus on Software Engineering rigor, ensuring that every solution is built with clean, modular, and reproducible Python code. I specialize in bridging the gap between raw data and actionable intelligence by developing scalable ETL pipelines and optimizing algorithmic efficiency through vectorized operations. With a strong foundation in statistical modeling and MLOps practices, I am passionate about deploying end-to-end, data-driven systems that solve complex, real-world challenges.
 
 
 ## 🔹 Skills & Tools  
